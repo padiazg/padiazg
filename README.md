@@ -1,6 +1,5 @@
 Hi, I'm Patricio Díaz
 
-- 🔭 I’m currently working on OCM
 - 🌱 I’m currently learning Golang, Flutter
 - 💬 Ask me about JS, Node.js, Docker, OpenFaaS
 - 📫 How to reach me: [Twitter](https://twitter.com/padiazg)
@@ -12,7 +11,7 @@ Hi, I'm Patricio Díaz
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on OCM
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
