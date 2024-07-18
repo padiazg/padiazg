@@ -1,7 +1,7 @@
 Hi, I'm Patricio Díaz
 
-- 🌱 I’m currently learning Golang, Flutter
-- 💬 Ask me about JS, Node.js, Vue.js, Docker, OpenFaaS
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about Golang, Containers, OpenFaaS
 - 📫 How to reach me: [Twitter](https://twitter.com/padiazg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=padiazg&show_icons=true&title_color=ffffff&icon_color=000000&text_color=efefef&bg_color=606060" />
